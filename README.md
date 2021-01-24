@@ -1,9 +1,8 @@
-# android_kernel_alcatel_california
+# Alcatel Idol Mini 6012 Kernel Source
 How to build:
 
 export PATH=~/Your_Toolchain_PATH/
-
-for example /home/alexenferman/lineage-14.1/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6/bin
+for example: export PATH=~/home/alexenferman/lineage-14.1/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6/bin
 
 Build Command:
 
